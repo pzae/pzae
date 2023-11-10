@@ -1,8 +1,6 @@
-### Hello there.
+### Hello there. My name is Alexandr Glazunov.
 
-### My name is Alexandr Glazunov.
-
-### And I like to do DS things.
+#### And I like to do DS things.
 
 Junior Data Scientist with basic skills in applying DS to business problems from understanding business needs and data preparation to developing machine learning models and interpreting the resulting data.
 
