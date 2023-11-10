@@ -4,6 +4,11 @@
 
 ### And I like to do DS things.
 
+Junior Data Scientist with basic skills in applying DS to business problems from understanding business needs and data preparation to developing machine learning models and interpreting the resulting data.
+
+#### DS skills and tools:
+
+`python`, `pandas`, `numpy`, `matplotlib`, `SQL`, `EDA`, `scikit-learn`, `catboost`, `keras`.
 
 
 
