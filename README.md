@@ -1,4 +1,4 @@
-### Hello there. My name is Alexandr Glazunov.
+### Hello there 👋 My name is Alexandr Glazunov.
 
 #### And I like to do DS things.
 
@@ -7,7 +7,6 @@ Junior Data Scientist with basic skills in applying DS to business problems from
 #### DS skills and tools:
 
 `python`, `pandas`, `numpy`, `matplotlib`, `SQL`, `EDA`, `scikit-learn`, `catboost`, `keras`.
-
 
 
 <!--
