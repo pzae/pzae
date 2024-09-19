@@ -1,17 +1,17 @@
 ### Hello there 👋 My name is Alexandr Glazunov.
 
-#### And I like to do DS things.
+#### 💻 And I like to do DS things.
 
 Junior Data Scientist with basic skills in applying DS to business problems from understanding business needs and data preparation to developing machine learning models and interpreting the resulting data.
 
-#### 🔥 Highly recommended to read
+#### 🔥 Highly recommended to review
 [Modification of imblearn.pipeline, optimisation of optuna, development of OneVsRestClassifier and other intresting things](https://github.com/pzae/Pet_projects/blob/main/Pet_OOP/notebooks/Pet_OOP.ipynb).
 
-#### DS skills and tools:
+#### 🔧 DS skills and tools:
 
 `Yolo`, `torch`, `CV`, `bert`, `NLP`, `python`, `scikit-learn`, `catboost`, `lightgbm`, `xgboost`, `EDA`, `matplotlib.pyplot`, `seaborn`, `pandas`, `numpy`, `SQL`.
 
-#### Repositories overview
+#### 🏄 Repositories overview
 
 | Repository | Description                                                   |
 | ---------- | ------------------------------------------------------------- |
