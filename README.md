@@ -5,7 +5,7 @@
 Junior Data Scientist with basic skills in applying DS to business problems from understanding business needs and data preparation to developing machine learning models and interpreting the resulting data.
 
 #### 🔥 Highly recommended to read
-[Modification of imblearn.pipeline, optimisation of optuna, development of OneVsRestClassifier and other intresting things](https://github.com/pzae/Test_tasks_and_mini_projects/blob/main/Pet_OOP/Pet_OOP.ipynb).
+[Modification of imblearn.pipeline, optimisation of optuna, development of OneVsRestClassifier and other intresting things](https://github.com/pzae/Pet_projects/blob/main/Pet_OOP/notebooks/Pet_OOP.ipynb).
 
 #### DS skills and tools:
 
